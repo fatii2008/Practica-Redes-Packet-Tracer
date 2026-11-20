@@ -1,0 +1,1 @@
+PAGINA DE DILAR<html><head><title>Dílar</title></head><body><center><h1>Bienvenidos a Dílar</h1><p>Esta página muestra información sobre el pueblo de Dílar, en Granada.</p><img src="dilar.jpg" width="400"></center></body></html>

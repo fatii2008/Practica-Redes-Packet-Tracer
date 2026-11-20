@@ -1,0 +1,25 @@
+Pagina de wagner
+
+<html>
+
+<head>
+
+<title>Richard Wagner</title>
+
+</head>
+
+<body>
+
+<center>
+
+<h1>Richard Wagner</h1>
+
+<p>Esta página muestra información sobre el compositor Richard Wagner.</p>
+
+<img src="wagner.jpg" width="400">
+
+</center>
+
+</body>
+
+</html>
